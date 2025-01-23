@@ -1,0 +1,4 @@
+{
+    "active_mini_app": {{BankConfiguration.selectedRow.active_mini_app}},
+    "require_mapping_bank_category": {{BankConfiguration.selectedRow.require_mapping_bank_category}}
+}

@@ -1,0 +1,6 @@
+{
+    "code": {{inputInsertBankCode.text}},
+    "name": {{inputInsertBankName.text}},
+    "active_mini_app": {{switchActiveMiniApp.isVisible}},
+    "require_mapping_bank_category": {{switchActiveMiniApp.isVisible}}
+}
