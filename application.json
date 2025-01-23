@@ -9,12 +9,8 @@
   "evaluationVersion": 2,
   "pages": [
     {
-      "id": "Page1",
+      "id": "InitPage",
       "isDefault": true
-    },
-    {
-      "id": "AppSmithUsers",
-      "isDefault": false
     },
     {
       "id": "BankConfig",

@@ -1,6 +1,6 @@
 {
   "gitSyncId": "67909ae4ddf27c505fb098d2_119de977-b160-4643-8aab-15055fcee366",
-  "id": "Page1_getUsers",
+  "id": "InitPage_getUsers",
   "pluginId": "postgres-plugin",
   "pluginType": "DB",
   "unpublishedAction": {
@@ -25,7 +25,7 @@
     "dynamicBindingPathList": [],
     "executeOnLoad": true,
     "name": "getUsers",
-    "pageId": "Page1",
+    "pageId": "InitPage",
     "userSetOnLoad": true
   }
 }
